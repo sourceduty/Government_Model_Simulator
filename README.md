@@ -14,6 +14,8 @@ Additionally, the simulator offers scenario-based simulations to assess the outc
 
 #
 ![Active Development](https://github.com/user-attachments/assets/4f8779b3-6c77-4c2c-8972-a50ad899c1d6)
+<br>
+[Nepotism](https://github.com/sourceduty/Nepotism)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
